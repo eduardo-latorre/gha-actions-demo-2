@@ -1,4 +1,4 @@
-name: Caching Action
+name: 'Caching Action'
 description: 'Get the dependencies (via npm) and cache them.'
 runs:
   using: 'composite'
