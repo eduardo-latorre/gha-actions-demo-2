@@ -1,3 +1,4 @@
+# Example 3 - Using custom actions
 name: 'Caching Action'
 description: 'Get the dependencies (via npm) and cache them.'
 runs:
